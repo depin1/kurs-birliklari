@@ -1,0 +1,29 @@
+.check1 {
+    display: block;
+    padding: 10px;
+    border: none;
+    border: 1px solid green;
+    margin-top: 50px;
+}
+
+.select {
+    margin-top: 20px;
+    padding: 5px;
+}
+
+.btn {
+    margin-top: 20px;
+    margin-left: 20px;
+    border: none;
+    background-color: greenyellow;
+    color: black;
+    padding: 10px;
+}
+
+.check2 {
+    display: block;
+    margin: 70px 0 0 100px;
+    border: none;
+    padding: 10px;
+    border: 1px solid green;
+}
